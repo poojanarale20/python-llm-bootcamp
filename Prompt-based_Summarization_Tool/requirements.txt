@@ -1,0 +1,5 @@
+torch
+transformers
+accelerate
+sentencepiece
+# argparse is part of Python stdlib, no need to install
