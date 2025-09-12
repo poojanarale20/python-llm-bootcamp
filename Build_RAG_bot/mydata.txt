@@ -1,0 +1,5 @@
+Python is a high-level programming language.
+FAISS is a library for efficient similarity search.
+Transformers library by Hugging Face supports many pre-trained models.
+RAG combines retrieval with generation for better question answering.
+Sentence-transformers provide easy-to-use embeddings for sentences and paragraphs.

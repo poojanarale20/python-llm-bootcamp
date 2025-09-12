@@ -1,0 +1,3 @@
+   pip install -r deps.txt
+   python qa_bot_main.py
+

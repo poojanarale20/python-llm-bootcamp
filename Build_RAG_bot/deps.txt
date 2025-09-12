@@ -1,0 +1,7 @@
+torch                # Required backend for Transformers
+transformers         # Model and tokenizer access
+accelerate           # Speeds up model inference
+sentence-transformers
+faiss-cpu            # Free vector similarity search library
+sentencepiece        # Required for some tokenizers (T5/BART etc.)
+
